@@ -21,11 +21,7 @@ CSS3
 Google Fonts (SF Pro Display)
 📂 Project Structure
 Apple-Website-Clone/
-│── index.html
-│── style.css
-│── Assets/
-│   ├── Images/
-│   └── Videos/
+│ index.html│style.css│Assets/ Images,Videos
 ⚙️ How to Run
 Download or clone the repository
 Open the project folder
